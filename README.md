@@ -10,3 +10,31 @@ Features
 
 🔗 API-Driven: Powered by a robust backend for secure data handling.
 
+
+# Tech Stack
+Frontend: Next.js, TypeScript
+
+Backend: Go (Golang)
+
+Styling: CSS, TailwindCSS, or your choice of UI framework
+
+Database: PostgreSQL (or replace with any DB of your choice)
+
+# Getting Started
+1. Prerequisites
+Ensure you have the following installed:
+
+Node.js (v16 or later): Download Node.js
+
+npm or yarn
+
+Go (v1.19 or later): Download Go
+
+Database: PostgreSQL (or any preferred database)
+
+# Clone the Repository
+git clone https://github.com/your-username/admin-page-nextjs-ts-golang.git
+cd admin-page-nextjs-ts-golang
+
+
+
